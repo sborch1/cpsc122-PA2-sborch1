@@ -1,0 +1,47 @@
+﻿the twist
+chubby checker
+rock
+clips/the_twist.mp3
+3
+
+
+smooth
+santana
+electronic
+clips/smooth.mp3
+2
+
+
+mack the knife
+bobby darin
+rock
+clips/mack_the_knife.mp3
+1
+
+
+uptown funk!
+mark ronson
+funk
+clips/uptown_funk.mp3
+5
+
+
+party rock anthem
+lmfao
+hip hop
+clips/party_rock_anthem.mp3
+4
+
+
+i gotta feeling
+black eyed peas
+pop
+clips/i_gotta_feeling.mp3
+5
+
+
+shape of you
+ed sheeran
+pop
+clips/shape_of_you.mp3
+4
